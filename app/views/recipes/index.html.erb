@@ -19,7 +19,6 @@
     <table>
       <% @recipes.each do |recipe| %>
           <tr class="<%= cycle('list_line_odd', 'list_line_even') %>">
-            <td>
             <td class="recipes">
               <d1>
                 <dt><strong>Recipe: </strong><%= recipe.title %></dt>
