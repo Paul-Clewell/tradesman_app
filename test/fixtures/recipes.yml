@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  level: 1
+  resources: MyString
+  components: MyString
+  crafted_materials: MyString
+  guilds: MyString
+
+two:
+  title: MyString
+  level: 1
+  resources: MyString
+  components: MyString
+  crafted_materials: MyString
+  guilds: MyString

@@ -1,0 +1,27 @@
+<div id="banner">
+  <h1>Listing Recipes</h1>
+</div>
+
+
+<table>
+  <% @recipes.each do |recipe| %>
+      <tr class="<%= cycle('list_line_odd', 'list_line_even') %>">
+        <td>
+        <td class="recipes">
+          <d1>
+            <dt><strong>Recipe: </strong><%= recipe.title %></dt>
+            <dd><strong>Level: </strong><%= recipe.level %></dd>
+            <dd><strong>Resources: </strong><%= recipe.resources %></dd>
+            <dd><strong>Crafted Materials: </strong><%= recipe.crafted_materials %></dd>
+            <dd><strong>Components: </strong><%= recipe.components %></dd>
+            <dd><strong>Guilds: </strong><%= recipe.guilds %></dd>
+          </d1>
+        </td>
+      </tr>
+  <% end %>
+</table>
+
+
+<br>
+
+<%= link_to 'New Recipe', new_recipe_path %>
