@@ -12,7 +12,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/tradesman_app@Development__tradesman_app.coverage" NAME="Development: tradesman_app Coverage Results" MODIFIED="1393878052124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="tradesman_app" />
+    <SUITE FILE_PATH="coverage/tradesman_app@Development__tradesman_app.coverage" NAME="Development: tradesman_app Coverage Results" MODIFIED="1393949804915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="tradesman_app" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -29,7 +29,7 @@
       <file leaf-file-name="show.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/recipes/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="600">
+            <state line="30" column="0" selection-start="426" selection-end="426" vertical-scroll-proportion="-0.0" vertical-offset="450" max-vertical-offset="600">
               <folding />
             </state>
           </provider>
@@ -38,7 +38,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/recipes/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="70" selection-start="580" selection-end="580" vertical-scroll-proportion="0.3197279" vertical-offset="159" max-vertical-offset="690">
+            <state line="63" column="35" selection-start="2275" selection-end="2275" vertical-scroll-proportion="0.40441176" vertical-offset="670" max-vertical-offset="1350">
               <folding />
             </state>
           </provider>
@@ -531,7 +531,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32650274" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32650274" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -562,7 +562,9 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/db/schema.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="16" selection-start="882" selection-end="882" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="495" />
+        <state line="17" column="16" selection-start="882" selection-end="882" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="495">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/recipes/show.html.erb">
@@ -608,7 +610,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db/schema.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="16" selection-start="882" selection-end="882" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="561" />
+        <state line="17" column="16" selection-start="882" selection-end="882" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="561">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20140301202313_create_recipes.rb">
@@ -752,13 +756,6 @@
         <state line="37" column="57" selection-start="946" selection-end="946" vertical-scroll-proportion="0.455516" vertical-offset="373" max-vertical-offset="935" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20140301202313_create_recipes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="16" selection-start="108" selection-end="108" vertical-scroll-proportion="0.08557047" vertical-offset="0" max-vertical-offset="596">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="48" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="300" />
@@ -771,7 +768,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/recipes.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="12" selection-start="251" selection-end="251" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="945" />
+        <state line="8" column="12" selection-start="251" selection-end="251" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="945">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bin/rails">
@@ -813,7 +812,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db/schema.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="16" selection-start="882" selection-end="882" vertical-scroll-proportion="0.36324787" vertical-offset="0" max-vertical-offset="702" />
+        <state line="17" column="16" selection-start="882" selection-end="882" vertical-scroll-proportion="0.36324787" vertical-offset="0" max-vertical-offset="702">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css.scss">
@@ -828,9 +829,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20140301202313_create_recipes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="6" selection-start="120" selection-end="120" vertical-scroll-proportion="0.12903225" vertical-offset="0" max-vertical-offset="465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/recipes/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="70" selection-start="580" selection-end="580" vertical-scroll-proportion="0.3197279" vertical-offset="159" max-vertical-offset="690">
+        <state line="63" column="35" selection-start="2275" selection-end="2275" vertical-scroll-proportion="0.40441176" vertical-offset="670" max-vertical-offset="1350">
           <folding />
         </state>
       </provider>
