@@ -3,11 +3,12 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 .recipes {
 
-  h1 {
+  h2 {
     margin: 0;
-    padding-bottom: 0.5em;
-    font: 100% times-new-roman;
-    color: #226;
+    font: small-caps 40px/40px "Times New Roman", serif;
+    text-align: left;
+    color: #282;
+
   }
 
   table {
