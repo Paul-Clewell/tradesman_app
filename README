@@ -1,0 +1,3 @@
+<%= link_to 'New Recipe', new_recipe_path %>
+
+This is just in case I need it later.
