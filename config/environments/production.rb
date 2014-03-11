@@ -3,6 +3,7 @@ TradesmanApp::Application.configure do
 
   config.middleware.insert_after(::Rack::Runtime, "::Rack::Auth::Basic", "Staging") do |u, p|
     [u, p] == ['Etrival', 'Voltair3']
+    [u, p] == ['Boom', 'TacoCat']
   end
 
   # Code is not reloaded between requests.
