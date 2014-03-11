@@ -1,11 +1,6 @@
 TradesmanApp::Application.configure do
   # Settings specified here will take precedence over those in config/application.rb.
 
-  #config.middleware.insert_after(::Rack::Runtime, "::Rack::Auth::Basic", "Staging") do |u, p|
-  #  [u, p] == ['Etrival', 'Voltair3']
-  #  [u, p] == ['Boom', 'TacoCat']
-  #end
-
   # Code is not reloaded between requests.
   config.cache_classes = true
 
@@ -82,4 +77,5 @@ TradesmanApp::Application.configure do
 
   # Use default logging formatter so that PID and timestamp are not suppressed.
   config.log_formatter = ::Logger::Formatter.new
+  config.middleware.insert 0, "Rack::WWWhisper"
 end
